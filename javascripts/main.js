@@ -111,4 +111,4 @@ var Main = (function() {
 	}
 })();
 
-Main.slider(); //GO!
+$(document).ready(Main.slider());
